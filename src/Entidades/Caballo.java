@@ -11,7 +11,7 @@ public class Caballo {
     private String raza;
     private String color;
     private Integer edad;
-    private String nombreDueño;
+    private String nombDueño;
 
     public Caballo() {
     }
